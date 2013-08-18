@@ -4,7 +4,7 @@ as3-factory is ActionScript 3 general infrastructure framework. It will grow ove
 
 - Dependency injection container
 
-This library depends on as3-common-reflect and as3-common-lang. Later it can include other libs from this great project. Both can be found at as3-commons
+This library depends on as3-common-reflect and as3-common-lang. Later it can include other libs from this great project. Both can be found at as3-commons (https://code.google.com/p/as3-commons/)
 
 By using this library, you will be able to separate actual implementation of the rest of application. This will allow you to create more testable and modular ActionScript application. And one good point of this DI container is that you can finally forget for factory methods. Leave initialization to DI. How? Look at sample below.
 
